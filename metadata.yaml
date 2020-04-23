@@ -1,0 +1,28 @@
+_repo: Kotipoluilta-II-Pienia-kertoelmia_61882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
+description: ''
+gutenberg_issued: '2020-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61882'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Elli -- Muuan lammasjuttu -- Juha Juhanpojan elämän tarina -- Miisu
+  raukka -- Kotoinen jutelma -- Ei pyyssä kahen jakoa -- Kilparadalla -- Paininlyöjä.
+title: 'Kotipoluilta II: Pieniä kertoelmia'
+url: http://www.gutenberg.org/ebooks/61882
